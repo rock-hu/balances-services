@@ -120,5 +120,4 @@ paths:
                 $ref: "#/components/schemas/OBReadBalance1"
 components:
   schemas:
-    OBReadBalance1:
-      type: object
+    OBReadBalance1: {}
